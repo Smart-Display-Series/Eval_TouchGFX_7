@@ -1,0 +1,53 @@
+{
+  "Meta": {
+    "Url": "http://packages.touchgfx.com/V2/Eval_TouchGFX_7/Eval_TouchGFX_7-1.0.0.zip",
+    "MD5sum": "40D59CDC6D27FDD724EC8EBBBAE7424D",
+    "Size": 18967921,
+    "Author": [
+      {
+        "Name": "Smart Display",
+        "Contact": "",
+        "URL": ""
+      }
+    ],
+    "LicenseUrl": "",
+    "Copyright": "",
+    "TouchGFXVersion": {
+      "Major": 4,
+      "Minor": 18,
+      "Build": 1
+    },
+    "CreatedAt": "2022-01-11T00:00:00Z",
+    "PathToDotTouchGFX": "",
+    "EmbeddedOs": "FreeRTOS"
+  },
+  "Data": {
+    "Version": {
+      "Major": 1,
+      "Minor": 0,
+      "Build": 0
+    },
+    "Name": "Eval TouchGFX 7",
+    "HumanFriendlyName": "Eval TouchGFX 7",
+    "BoardName": "Smart Display 7 Evalution Board",
+    "Type": "TGAT",
+    "Vendor": "Smart Display",
+    "Description": "Configuration is done using CubeMX6.3.0 and Additional Software compoent \"TouchGFX Generator 4.18.0\".\n\nThe default IDE is set to STM32CubeID.\n\nSupports flashing of the Evalution Board Smart Display 7\" directly from TouchGFX Designer using GCC and STM32CubeProgrammer.",
+    "DocumentationLink": "",
+    "Category": "Demo",
+    "Images": [
+      "https://www.winstar.com.tw/uploads/photos/smart-display/can-display/WL0F0007000A8GAAASB00.jpg",
+      "https://www.winstar.com.tw/uploads/photos/smart-display/can-display/WL0F0007000A8GAAASA00-back.jpg"
+    ],
+    "Tags": [],
+    "AvailableResolutions": [
+      {
+        "Height": 600,
+        "Width": 1024
+      }
+    ],
+    "TargetBpp": [
+      16
+    ]
+  }
+}
