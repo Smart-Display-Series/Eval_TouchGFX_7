@@ -10,7 +10,7 @@ Supports flashing of the Evalution Board Smart Display 7" directly from TouchGFX
 **Please follow these steps to import a tpa file.**
 
 ```
-Copy or move the Eval_TouchGFX_7.tpa file to C:\TouchGFX\4.13.0\app\packages(user install touchgfx path).
+Copy or move the Eval_TouchGFX_7-1.0.0.tpa file to C:\TouchGFX\4.13.0\app\packages(user install touchgfx path).
 This allows users to import emtpy template into TouchGFX Designer from a local folder.
 ```
 
