@@ -15,3 +15,5 @@ This allows users to import emtpy template into TouchGFX Designer from a local f
 ```
 
 This tpa file is created that follows the guidance of Link "[creating a TouchGFX Board](https://support.touchgfx.com/4.18/docs/development/scenarios/scenarios-create-at) "
+
+![Image 1](https://user-images.githubusercontent.com/7386787/148874715-7a999335-3266-4ee9-9d5a-909f937d8013.png)
