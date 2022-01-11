@@ -4,7 +4,7 @@
 Configuration is done using CubeMX6.3.0 and Additional Software compoent "TouchGFX Generator 4.18.1".<br>
 The default IDE is set to STM32CubeID.<br>
 
-Supports flashing of the Evalution Board Smart Display 7" directly from TouchGFX Designer using GCC and STM32CubeProgrammer."
+Supports flashing of the Evalution Board Smart Display 7" directly from TouchGFX Designer using GCC and STM32CubeProgrammer.
 
 
 **Please follow these steps to import a tpa file.**
